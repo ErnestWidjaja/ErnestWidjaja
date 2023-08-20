@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello! 
+ My name is **Ernest Widjaja**
 <!--
 **ErnestWidjaja/ErnestWidjaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
